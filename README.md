@@ -78,6 +78,3 @@ By completing this exercise, you will:
 - Work with middleware for access control  
 - Use controllers to manage logic  
 - Pass dynamic data to Blade views  
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
->>>>>>> bcb7d05 (Added Bookstore App.)
