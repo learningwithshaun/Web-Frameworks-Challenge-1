@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Laravel Framework Practice Exercise  
 ## Routes, Middleware, Controllers & Views  
 
